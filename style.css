@@ -45,13 +45,14 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.io/normalize.css/
 # Normalize
 --------------------------------------------------------------*/
 html {
-	font-family: sans-serif;
+	font-family: "Open Sans";
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 }
 
 body {
 	margin: 0;
+	font-family: "Open Sans";
 }
 
 article,
@@ -276,10 +277,12 @@ h1, h2, h3, h4, h5, h6 {
 	color: #303030;
 	line-height: 1em;
 	font-weight: 100;
+	font-family: "Montserrat"
 }
 
 p {
 	/*margin-bottom: 1.5em;*/
+	font-family: "Open Sans";
 	color: #000;
 }
 
