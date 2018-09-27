@@ -17,8 +17,8 @@
                   <li class="menu-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a href="https://twitter.com/ISTEX_Platform">@ISTEX_Platform</a></li>
               </ul>
       <ul class="menu-pied">
-                  <li class="menu-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://www.istex.fr/mentions-legales/">Mentions légales</a></li>
-                  <li class="menu-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="https://www.istex.fr/cookies-et-statistiques/">Cookies et statistiques</a></li>
+                  <li class="menu-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://blog.istex.fr/mentions-legales/">Mentions légales</a></li>
+                  <li class="menu-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="https://blog.istex.fr/cookies//">Politique de confidentialité</a></li>
                   <li class="menu-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-81"><a href="https://www.istex.fr/contact/">Contacter ISTEX</a></li>
                   <li class="menu-item  menu-item menu-item-type-custom menu-item-object-custom menu-item-84"><a href="/wp-admin/">Administration</a></li>
               </ul>
